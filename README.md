@@ -850,7 +850,7 @@
   <tr>
     <td>Ford GT OPI</td>
     <td>3699</td>
-    <td>Wont be able to drive it unless you own the dlc</td>
+    <td>DLC Required</td>
   </tr>
   <tr>
     <td>Hot Wheels BTTB</td>
